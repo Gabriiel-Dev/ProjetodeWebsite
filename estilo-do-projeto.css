@@ -1,0 +1,10 @@
+body{
+    background-image: url("imagem-fontes.jpeg");
+    background-attachment: scroll;
+}
+.texto{
+    background-color: white;
+    text-align: left;
+    padding:10px;
+    margin:10px;
+}
